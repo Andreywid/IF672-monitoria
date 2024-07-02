@@ -4,26 +4,26 @@
 
 1. **Introdução às listas**
 2. **Monitoria**
-2.1 Monitorias presenciais
-2.2 Discord da disciplina
+    1. Monitorias presenciais
+    2. Discord da disciplina
 
 3. **Apresentação do ambiente Iudex**
-3.1 Vereditos
-3.2 Observações
+    1. Vereditos
+    2. Observações
 
 4. **Bibliotecas permitidas**
-4.1 C/C++
-4.2 Python
+    1. C/C++
+    2. Python
 5. **Comandos de terminal (C/C++)**
-5.1 Compilação
-5.2 Entrada e Saída
-5.3 Tempo de execução
-5.4 Outras Flags
+    1. Compilação
+    2. Entrada e Saída
+    3. Tempo de execução
+    4. Outras Flags
 6. **Erros comuns e dicas**
-6.1 Profiling
-6.2 Otimizações
-6.3 Diagnosticando Runtime Errors (RTE)
-6.4 Gerando casos teste
+    1. Profiling
+    2. Otimizações
+    3. Diagnosticando Runtime Errors (RTE)
+    4. Gerando casos teste
 7. **Referências úteis**
 
 ## 1. Introdução às listas
